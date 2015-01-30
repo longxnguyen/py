@@ -1,2 +1,2 @@
 # py
-Python stuff
+This repository contains python projects.
